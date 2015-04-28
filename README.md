@@ -5,7 +5,15 @@ A collection of awesome sqlite tools, scripts, books, etc
 ## SQLite Headquarters (HQ)
 
 - [sqlite.org](http://www.sqlite.org)
-   - [SQLite As An Application File Format](https://www.sqlite.org/appfileformat.html)
+    - 2013: v3.8.0 - Aug/26 
+    - 2010: v3.7.0 - Jul/22
+- [SQLite As An Application File Format](https://www.sqlite.org/appfileformat.html)
+- [In-Memory Databases](http://www.sqlite.org/inmemorydb.html)
+
+
+## SQLite Derivates
+
+- [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
 
 
 ## (Visual) Admin Tools
