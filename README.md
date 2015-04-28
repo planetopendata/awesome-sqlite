@@ -2,10 +2,15 @@
 A collection of awesome sqlite tools, scripts, books, etc
 
 
-## SQLite Headquaters (HQ)
+## SQLite Headquarters (HQ)
 
-- [sqlite.org]
-   - sqlite for Application Format
+- [sqlite.org](http://www.sqlite.org)
+   - [SQLite As An Application File Format](https://www.sqlite.org/appfileformat.html)
+
+
+## (Visual) Admin Tools
+
+- [SQLiteStudio](http://sqlitestudio.pl)
 
 
 ## Text-to-SQLite
@@ -27,4 +32,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 **Questions? Comments?**
 
-Send them along to the sqlite-user maiing list. Thanks!
+Send them along to the sqlite-users maiing list. Thanks!
