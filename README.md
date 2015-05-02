@@ -1,6 +1,12 @@
 # awesome-sqlite
 A collection of awesome sqlite tools, scripts, books, etc
 
+---
+<!-- announcements here -->
+---
+
+Contributions welcome. Anything missing? Send in a pull request. Thanks.
+
 
 ## SQLite Headquarters (HQ)
 
