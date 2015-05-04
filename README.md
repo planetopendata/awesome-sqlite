@@ -50,8 +50,8 @@ Microsoft ODBC
 
 Java JDBC
 
-- [SQLite JDBC Driver](http://www.ch-werner.de/javasqlite) - a Java wrapper includes a basic JDBC driver for SQLite; coded by Christian Werner
-- [SQLite JDBC Driver](https://bitbucket.org/xerial/sqlite-jdbc) - a library for accessing SQLite databases through the JDBC API; coded by Taro L. Saito
+- [SQLite JDBC Driver (sqlite.jar)](http://www.ch-werner.de/javasqlite) - a Java wrapper includes a basic JDBC driver for SQLite; coded by Christian Werner
+- [SQLite JDBC Driver (sqlite-jdbc.jar)](https://bitbucket.org/xerial/sqlite-jdbc) - a library for accessing SQLite databases through the JDBC API; coded by Taro L. Saito
 
 
 ## Language Bindings
@@ -62,7 +62,8 @@ R Language
 
 Ruby
 
-- [sqlite3 Gem :gem:](https://github.com/sparklemotion/sqlite3-ruby) - [:octocat:](https://rubygems.org/gems/sqlite3)
+- [sqlite3 Gem :gem:](https://github.com/sparklemotion/sqlite3-ruby) - [:octocat:](https://rubygems.org/gems/sqlite3) - SQLite Interface for Ruby
+
 
 and many more 
 
