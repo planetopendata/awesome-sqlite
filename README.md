@@ -42,13 +42,38 @@ Articles
 - [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
 
 
+## Middleware
+
+Microsoft ODBC
+
+- [SQLite ODBC Driver](http://www.ch-werner.de/sqliteodbc) - coded by Christian Werner
+
+Java JDBC
+
+- [SQLite JDBC Driver](http://www.ch-werner.de/javasqlite) - a Java wrapper includes a basic JDBC driver for SQLite; coded by Christian Werner
+- [SQLite JDBC Driver](https://bitbucket.org/xerial/sqlite-jdbc) - a library for accessing SQLite databases through the JDBC API; coded by Taro L. Saito
+
+
+## Language Bindings
+
+R Language
+
+- [RSQLite (on CRAN)](http://cran.r-project.org/web/packages/RSQLite) - SQLite Interface for R 
+
+Ruby
+
+- [sqlite3 Gem :gem:](https://github.com/sparklemotion/sqlite3-ruby) - [:octocat:](https://rubygems.org/gems/sqlite3)
+
+and many more 
+
+
 ## SQLite Admin Tools
 
 Major
 
 - [SQLiteStudio](http://sqlitestudio.pl)
 - [DB Browser for SQLite](http://sqlitebrowser.org) - [:octocat:](https://github.com/sqlitebrowser) - formerly known as SQLite Database Browser
-- [SQLite Toolbox](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1), [(Source)](http://sqlcetoolbox.codeplex.com) - Visual Studio extension (add-in); coded by Erik Ejlskov Jensen
+- [SQLite Toolbox](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1) -  [(Source)](http://sqlcetoolbox.codeplex.com) - Visual Studio extension (add-in); coded by Erik Ejlskov Jensen
 
 
 Minor
@@ -68,10 +93,15 @@ _A spatial SQLite extension for vector geodata functionality_
     - [SpatiaLite Admin Tool](https://www.gaia-gis.it/fossil/spatialite_gui/index)
 - [Article: SpatiaLite @ Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)
 
+
 ## Text-to-SQLite
 
 - [datapak gem :octocat:](https://github.com/textkit/datapak), [:gem:](https://rubygems.org/gems/datapak) - Ruby tool and library for working with tabular data packages (.csv files w/ .json) using SQLite (via ActiveRecord)
 - [q command line tool :octocat:](https://github.com/harelba/q) - Python script; lets you run SQL directly on CSV files
+
+## Misc
+
+- [R-Package sqldf (on CRAN)](http://cran.r-project.org/web/packages/sqldf) - [:octocat:](https://github.com/ggrothendieck/sqldf) - perform SQL selects on R data frames
 
 
 ## Schema Documentation Generators
