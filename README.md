@@ -58,7 +58,7 @@ Java JDBC
 
 R Language
 
-- [RSQLite :octocat:](https://github.com/rstats-db/RSQLite) - [(CRAN - Comprehensive R Archive Network)](http://cran.r-project.org/web/packages/RSQLite) - SQLite interface for R 
+- [RSQLite :octocat:](https://github.com/rstats-db/RSQLite), [(CRAN - Comprehensive R Archive Network)](http://cran.r-project.org/web/packages/RSQLite) - SQLite interface for R 
 
 Ruby
 
@@ -109,7 +109,7 @@ _A spatial SQLite extension for vector geodata functionality_
 
 ## Misc
 
-- [R-Package sqldf (on CRAN)](http://cran.r-project.org/web/packages/sqldf) - [:octocat:](https://github.com/ggrothendieck/sqldf) - perform SQL selects on R data frames
+- [R-Package sqldf :octocat:](https://github.com/ggrothendieck/sqldf), [CRAN - Comprehensive R Archive Network](http://cran.r-project.org/web/packages/sqldf) - perform SQL selects on R data frames
 
 
 ## Schema Documentation Generators
