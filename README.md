@@ -48,6 +48,7 @@ Major
 
 - [SQLiteStudio](http://sqlitestudio.pl)
 - [DB Browser for SQLite](http://sqlitebrowser.org) - [:octocat:](https://github.com/sqlitebrowser) - formerly known as SQLite Database Browser
+- [SQLite Toolbox](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1) - Visual Studio extension
 
 Minor
 
@@ -88,7 +89,7 @@ _Ready-to-Use (Instant) Database Schemas_
 
 - [football.db :octocat:](https://github.com/openfootball/schema.sql) - teams, competitions, seasons, matches, goals, rounds, groups, etc.
 - [beer.db :octocat:](https://github.com/openbeer/schema.sql)  - beer, brand, brewery, etc.
-
+- [chinook.sqlite :octocat:](http://chinookdatabase.codeplex.com/releases/view/55681) - online music store (with sample data)
 
 
 ## Meta
