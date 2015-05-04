@@ -58,12 +58,15 @@ Java JDBC
 
 R Language
 
-- [RSQLite (on CRAN)](http://cran.r-project.org/web/packages/RSQLite) - SQLite Interface for R 
+- [RSQLite (on CRAN)](http://cran.r-project.org/web/packages/RSQLite) - SQLite interface for R 
 
 Ruby
 
-- [sqlite3 Gem :gem:](https://github.com/sparklemotion/sqlite3-ruby) - [:octocat:](https://rubygems.org/gems/sqlite3) - SQLite Interface for Ruby
+- [sqlite3 Gem :gem:](https://github.com/sparklemotion/sqlite3-ruby) - [:octocat:](https://rubygems.org/gems/sqlite3) - SQLite interface for Ruby
 
+Visual Basic for Applications (VBA)
+
+- [SQLite for Excel](https://sqliteforexcel.codeplex.com) - SQLite wrapper for VBA
 
 and many more 
 
