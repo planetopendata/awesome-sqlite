@@ -13,6 +13,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## SQLite Headquarters (HQ)
 
+_Small. Fast. Reliable. Choose any three._
+
 - [sqlite.org](http://www.sqlite.org)
 - [Versions / Release History](http://www.sqlite.org/changes.html)
     - 2013: 3.8.0 (Aug/26) 
