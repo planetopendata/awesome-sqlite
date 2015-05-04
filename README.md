@@ -39,7 +39,7 @@ Articles
 
 ## SQLite Derivates
 
-- [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
+- [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten (using asm.js)
 
 
 ## Middleware
@@ -66,7 +66,7 @@ Ruby
 
 Microsoft .NET
 
-- [System.Data.SQLite](http://system.data.sqlite.org) -  a SQLite ADO.NET driver with Linq and Entity Framework support; official support by SQLite HQ
+- [System.Data.SQLite](http://system.data.sqlite.org) -  a SQLite ActiveX Data Objects (ADO).NET driver with Language-Integrated Query (LINQ) and Entity Framework support; official support by SQLite HQ
 
 Visual Basic for Applications (VBA)
 
