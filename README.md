@@ -39,7 +39,7 @@ Articles
 
 ## SQLite Derivates
 
-- [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten (using asm.js)
+- [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript (using asm.js) through Emscripten 
 
 
 ## Middleware
