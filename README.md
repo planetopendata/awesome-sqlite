@@ -58,7 +58,7 @@ Java JDBC
 
 R Language
 
-- [RSQLite (on CRAN)](http://cran.r-project.org/web/packages/RSQLite) - SQLite interface for R 
+- [RSQLite :octocat:](https://github.com/rstats-db/RSQLite) - [(CRAN - Comprehensive R Archive Network)](http://cran.r-project.org/web/packages/RSQLite) - SQLite interface for R 
 
 Ruby
 
