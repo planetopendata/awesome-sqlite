@@ -64,6 +64,10 @@ Ruby
 
 - [sqlite3 Gem :gem:](https://github.com/sparklemotion/sqlite3-ruby) - [:octocat:](https://rubygems.org/gems/sqlite3) - SQLite interface for Ruby
 
+Microsoft .NET
+
+- [System.Data.SQLite](http://system.data.sqlite.org) -  a SQLite ADO.NET driver with Linq and Entity Framework support; official support by SQLite HQ
+
 Visual Basic for Applications (VBA)
 
 - [SQLite for Excel](https://sqliteforexcel.codeplex.com) - SQLite wrapper for VBA
