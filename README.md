@@ -109,7 +109,7 @@ _A spatial SQLite extension for vector geodata functionality_
 
 ## Misc
 
-- [R-Package sqldf :octocat:](https://github.com/ggrothendieck/sqldf), [CRAN - Comprehensive R Archive Network](http://cran.r-project.org/web/packages/sqldf) - perform SQL selects on R data frames
+- [R-Package sqldf :octocat:](https://github.com/ggrothendieck/sqldf), [(CRAN - Comprehensive R Archive Network)](http://cran.r-project.org/web/packages/sqldf) - perform SQL selects on R data frames
 
 
 ## Schema Documentation Generators
