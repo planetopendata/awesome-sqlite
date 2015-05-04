@@ -14,7 +14,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## SQLite Headquarters (HQ)
 
 - [sqlite.org](http://www.sqlite.org)
-    - 2013: 3.8.0 (Aug/26)
+- [Versions / Release History](http://www.sqlite.org/changes.html)
+    - 2013: 3.8.0 (Aug/26) 
     - 2010: 3.7.0 (Jul/22)
 - [Talk](http://mailinglists.sqlite.org/cgi-bin/mailman/listinfo/sqlite-users) - sqlite-users mailing list
 
@@ -75,7 +76,9 @@ _A spatial SQLite extension for vector geodata functionality_
 
 
 
-## Ready-to-Use (Instant) SQLite Schemas
+## SQLite Schemas
+
+_Ready-to-Use (Instant) Database Schemas_
 
 <!-- do be done
 - [world.db :octocat:]()  - countries, states, cities, counties, munis, districts, places, names, etc.
