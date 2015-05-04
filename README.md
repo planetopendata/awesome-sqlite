@@ -62,7 +62,7 @@ R Language
 
 Ruby
 
-- [sqlite3 Gem :gem:](https://github.com/sparklemotion/sqlite3-ruby) - [:octocat:](https://rubygems.org/gems/sqlite3) - SQLite interface for Ruby
+- [sqlite3 gem :octocat:](https://github.com/sparklemotion/sqlite3-ruby) - [:gem:](https://rubygems.org/gems/sqlite3) - SQLite interface for Ruby
 
 Microsoft .NET
 
