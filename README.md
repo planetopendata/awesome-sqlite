@@ -1,5 +1,8 @@
 # awesome-sqlite
-A collection of awesome sqlite tools, scripts, books, etc
+
+A collection of awesome sqlite tools, scripts, books, etc.
+
+Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
 
 ---
 <!-- announcements here -->
@@ -16,25 +19,50 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [SQLite As An Application File Format](https://www.sqlite.org/appfileformat.html)
 - [In-Memory Databases](http://www.sqlite.org/inmemorydb.html)
 
+## SQLite Documentation and History
+
+- [Article: SQLite @ Wikipedia](http://en.wikipedia.org/wiki/SQLite)
+
 
 ## SQLite Derivates
 
 - [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
 
 
-## (Visual) Admin Tools
+## SQLite Admin Tools
+
+Major
 
 - [SQLiteStudio](http://sqlitestudio.pl)
+- [DB Browser for SQLite](http://sqlitebrowser.org) - [:octocat:](https://github.com/sqlitebrowser) - formerly known as SQLite Database Browser
 
+Minor
+
+- [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
+- [SQLiteSpy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)
+- [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
+
+
+## SpatiaLite 
+
+_A spatial SQLite extension for vector geodata functionality_
+
+- [SpatiaLite](http://www.gaia-gis.it/gaia-sins)
+    - [libspatialite](https://www.gaia-gis.it/fossil/libspatialite/index)
+    - [SpatiaLite Command Line Tools](https://www.gaia-gis.it/fossil/spatialite-tools/index)
+    - [SpatiaLite Admin Tool](https://www.gaia-gis.it/fossil/spatialite_gui/index)
+- [Article: SpatiaLite @ Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)
 
 ## Text-to-SQLite
 
 - [q command line tool :octocat:](https://github.com/harelba/q) - Python script; lets you run SQL directly on CSV or TSV files
-- [datapak gem :octocat:](https://github.com/textkit/datapak) - Ruby tool and library for working with tabular data packages (.csv files w/ .json) using SQLite (via ActiveRecord)
+- [datapak gem :octocat:](https://github.com/textkit/datapak), [:gem:](https://rubygems.org/gems/datapak) - Ruby tool and library for working with tabular data packages (.csv files w/ .json) using SQLite (via ActiveRecord)
+
 
 ## Schema Documentation Generators
 
-- [schemadoc gem :octocat:](https://github.com/rubylibs/schemadoc) - documents your database schemas (tables, columns, etc.)
+- [schemadoc gem :octocat:](https://github.com/rubylibs/schemadoc), [:gem:](https://rubygems.org/gems/schemadoc) - documents your database schemas (tables, columns, etc.)
+
 
 ## SQLite Schemas
 
@@ -44,6 +72,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [football.db :octocat:](https://github.com/openfootball/schema.sql) - teams, competitions, seasons, matches, goals, rounds, groups, etc.
 - [beer.db :octocat:](https://github.com/openbeer/schema.sql)  - beer, brand, brewery, etc.
+
 
 ## Books
 
