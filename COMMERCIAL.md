@@ -1,4 +1,4 @@
-awesome-commercial-sqlite
+# awesome-commercial-sqlite
 
 A collection of awesome commercial sqlite tools, scripts, etc.
 
