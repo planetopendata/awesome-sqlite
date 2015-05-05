@@ -4,7 +4,8 @@ A collection of awesome commercial sqlite tools, scripts, etc.
 
 ## SQLite Admin Tools
 
-- [SQLite Analyzer :moneybag:](http://www.kraslabs.com/sqlite_analyzer.php) by Kraslabs.com
+- [SQLite Analyzer :moneybag:](http://www.kraslabs.com/sqlite_analyzer.php) by Kraslabs
+- [SQLiteAdmin :moneybag:](http://www.lcsql.com/sqliteadmin.html) by lcSQL Software
 
 
 ## Meta
