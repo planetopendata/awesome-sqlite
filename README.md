@@ -130,7 +130,7 @@ _Ready-to-Use (Instant) Database Schemas_
 
 - [football.db :octocat:](https://github.com/openfootball/schema.sql) - teams, competitions, seasons, matches, goals, rounds, groups, etc.
 - [beer.db :octocat:](https://github.com/openbeer/schema.sql)  - beer, brand, brewery, etc.
-- [Chinook Database](http://chinookdatabase.codeplex.com) - [(chinook.sqlite Download)](http://chinookdatabase.codeplex.com/releases/view/55681) -  online music store with sample data
+- [Chinook Database](http://chinookdatabase.codeplex.com) - [(chinook.sqlite Download)](http://chinookdatabase.codeplex.com/releases/view/55681) -  online music store (artists, albums, genres, playlists, media tracks, customers, invoices, employees) with sample data; inspired by the "classic" Microsoft Northwind database
 
 
 ## Meta
