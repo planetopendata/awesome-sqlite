@@ -2,10 +2,12 @@
 
 A collection of awesome sqlite tools, scripts, books, etc.
 
-Note: :gem: stands for the RubyGems page and :octocat: stands for the GitHub page.
+Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
 ---
-<!-- announcements here -->
+
+[ANNOUNCEMENT] Looking for awesome world data (countries, cities, flags, languages, currencies, etc.)? See the [Awesome World List @ Planet Open Data](https://github.com/planetopendata/awesome-world). 
+
 ---
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
