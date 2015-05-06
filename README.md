@@ -39,6 +39,11 @@ Articles
 - [Using SQLite](http://shop.oreilly.com/product/9780596521196.do) - by Jay A. Kreibich; 2010, O'Reilly; 530 pages
 
 
+## SQLite Modules / Extensions
+
+- [Text File Reader for SQLite (TFR4SQLite) :octocat:](https://github.com/elau1004/TFR4SQLite) - read any structured text file according to your parsing spec into SQLite
+
+
 ## SQLite Derivates
 
 - [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript (using asm.js) through Emscripten 
