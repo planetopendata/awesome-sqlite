@@ -1,4 +1,11 @@
-# awesome-sqlite
+Awesome Series @ Planet Open Data
+
+[World (Countries, Cities, Codes, ...)](https://github.com/planetopendata/awesome-world) • 
+[Football (Clubs, Players, Stadiums, ...)](https://github.com/planetopendata/awesome-football) •
+[SQLite (Tools, Books, Schemas, ...)](https://github.com/planetopendata/awesome-sqlite)
+
+
+# SQLite
 
 A collection of awesome sqlite tools, scripts, books, etc.
 
@@ -6,7 +13,7 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome world data (countries, cities, flags, languages, currencies, etc.)? See the [Awesome World List @ Planet Open Data](https://github.com/planetopendata/awesome-world). 
+[ANNOUNCEMENT] Looking for awesome SQLite libraries in Ruby? See the [Awesome ActiveRecord List @ Planet Ruby](https://github.com/planetruby/awesome-activerecord). 
 
 ---
 
