@@ -9,16 +9,15 @@ Awesome Series @ Planet Open Data
 
 A collection of awesome sqlite tools, scripts, books, etc.
 
-Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
-
 ---
 
 [ANNOUNCEMENT] Looking for awesome SQLite libraries in Ruby? See the [Awesome ActiveRecord List @ Planet Ruby](https://github.com/planetruby/awesome-activerecord). 
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
+Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
 ## SQLite Headquarters (HQ)
 
