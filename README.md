@@ -17,17 +17,16 @@ A collection of awesome sqlite tools, scripts, books, etc.
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
-Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
 
 ## SQLite Headquarters (HQ)
 
 _Small. Fast. Reliable. Choose any three._
 
-- [sqlite.org](http://www.sqlite.org)
-- [Versions / Release History](http://www.sqlite.org/changes.html)
+- **SQLite** (web: [sqlite.org](http://www.sqlite.org)) by D. Richard Hipp et al
+  - [Versions / Release History](http://www.sqlite.org/changes.html)
     - 2013: 3.8.0 (Aug/26) 
     - 2010: 3.7.0 (Jul/22)
-- [Talk](http://mailinglists.sqlite.org/cgi-bin/mailman/listinfo/sqlite-users) - sqlite-users mailing list
+  - [Talk](http://mailinglists.sqlite.org/cgi-bin/mailman/listinfo/sqlite-users) - sqlite-users mailing list
 
 Articles
 
@@ -47,12 +46,12 @@ Articles
 
 ## SQLite Modules / Extensions
 
-- [Text File Reader for SQLite (TFR4SQLite) :octocat:](https://github.com/elau1004/TFR4SQLite) - read any structured text file according to your parsing spec into SQLite
+- **Text File Reader for SQLite (TFR4SQLite)** (github: [elau1004/TFR4SQLite](https://github.com/elau1004/TFR4SQLite)) by Edward Lau  -- read any structured text file according to your parsing spec into SQLite
 
 
 ## SQLite Derivates
 
-- [sql.js :octocat:](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript (using asm.js) through Emscripten 
+- **sql.js** (github: [kripken/sql.js](https://github.com/kripken/sql.js)) -- SQLite compiled to JavaScript (using asm.js) through Emscripten 
 
 
 ## Middleware
