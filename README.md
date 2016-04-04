@@ -70,19 +70,19 @@ Java JDBC
 
 R Language
 
-- [RSQLite :octocat:](https://github.com/rstats-db/RSQLite), [(CRAN - Comprehensive R Archive Network)](http://cran.r-project.org/web/packages/RSQLite) - SQLite interface for R 
+- **RSQLite** (github: [rstats-db/RSQLite](https://github.com/rstats-db/RSQLite), cran: [RSQLite](http://cran.r-project.org/web/packages/RSQLite)) -- SQLite interface for R 
 
 Ruby
 
-- [sqlite3 gem :octocat:](https://github.com/sparklemotion/sqlite3-ruby), [:gem:](https://rubygems.org/gems/sqlite3) - SQLite interface for Ruby
+- **sqlite3** (github: [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby), gem: [sqlite3](https://rubygems.org/gems/sqlite3)) -- SQLite interface for Ruby
 
 Microsoft .NET
 
-- [System.Data.SQLite](http://system.data.sqlite.org) -  a SQLite ActiveX Data Objects (ADO).NET driver with Language-Integrated Query (LINQ) and Entity Framework support; official support by SQLite HQ
+- **System.Data.SQLite** (web: [system.data.sqlite.org](http://system.data.sqlite.org)) --  a SQLite ActiveX Data Objects (ADO).NET driver with Language-Integrated Query (LINQ) and Entity Framework support; official support by SQLite HQ
 
 Visual Basic for Applications (VBA)
 
-- [SQLite for Excel](https://sqliteforexcel.codeplex.com) - SQLite wrapper for VBA
+- **SQLite for Excel** (codeplex: [sqliteforexcel](https://sqliteforexcel.codeplex.com)) -- SQLite wrapper for VBA
 
 and many more 
 
@@ -98,9 +98,9 @@ and many more
 
 Major
 
-- [SQLiteStudio](http://sqlitestudio.pl)
-- [DB Browser for SQLite](http://sqlitebrowser.org) - [:octocat:](https://github.com/sqlitebrowser) - formerly known as SQLite Database Browser
-- [SQLite Toolbox](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1) -  [(Source)](http://sqlcetoolbox.codeplex.com) - Visual Studio extension (add-in); coded by Erik Ejlskov Jensen
+- **SQLiteStudio** (web: [sqlitestudio.pl](http://sqlitestudio.pl)) - Linux, Windows, Mac OS X
+- **DB Browser for SQLite** (web: [sqlitebrowser.org](http://sqlitebrowser.org), github: [sqlitebrowser](https://github.com/sqlitebrowser)) -- formerly known as SQLite Database Browser
+- [**SQLite Toolbox**](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1) (codeplex: [sqlcetoolbox] (http://sqlcetoolbox.codeplex.com)) -- Visual Studio extension (add-in); coded by Erik Ejlskov Jensen
 
 
 Minor
