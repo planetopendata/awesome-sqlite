@@ -43,7 +43,7 @@ Articles
 
 - [The Definitive Guide to SQLite (2nd Edition)](http://www.apress.com/9781430232254) - by Mike Owens and Grant Allen; 2010; Apress; 368 pages
 - [Using SQLite](http://shop.oreilly.com/product/9780596521196.do) - by Jay A. Kreibich; 2010, O'Reilly; 530 pages
-
+- [Getting Started with SQL - A Hands-On Approach for Beginners](http://shop.oreilly.com/product/0636920044994.do) - by Thomas Nield; 2016; O'Reilly; 134 pages -- learn SQL with SQLite and SQLiteStudio
 
 ## SQLite Modules / Extensions
 
