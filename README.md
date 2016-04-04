@@ -123,17 +123,18 @@ _A spatial SQLite extension for vector geodata functionality_
 
 ## Text-to-SQLite
 
-- [datapak gem :octocat:](https://github.com/textkit/datapak), [:gem:](https://rubygems.org/gems/datapak) - Ruby tool and library for working with tabular data packages (.csv files w/ .json) using SQLite (via ActiveRecord)
-- [q command line tool :octocat:](https://github.com/harelba/q) - Python script; lets you run SQL directly on CSV files
+- **datapak** (github: [textkit/datapak](https://github.com/textkit/datapak), gem: [datapak](https://rubygems.org/gems/datapak)) -- Ruby tool and library for working with tabular data packages (.csv files w/ .json) using SQLite (via ActiveRecord)
+- **q command line tool** (github: [harelba/q](https://github.com/harelba/q) -- Python script; lets you run SQL directly on CSV files
 
 ## Misc
 
-- [R-Package sqldf :octocat:](https://github.com/ggrothendieck/sqldf), [(CRAN - Comprehensive R Archive Network)](http://cran.r-project.org/web/packages/sqldf) - perform SQL selects on R data frames
+- **R-Package sqldf** (github: [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf), cran: [sqldf](http://cran.r-project.org/web/packages/sqldf)) -- perform SQL selects on R data frames
 
 
 ## Schema Documentation Generators
 
-- [schemadoc gem :octocat:](https://github.com/rubylibs/schemadoc), [:gem:](https://rubygems.org/gems/schemadoc) - documents your database schemas (tables, columns, etc.); uses SQLite (via ActiveRecord)
+- **schemadoc** (github: [rubylibs/schemadoc](https://github.com/rubylibs/schemadoc), gem: [schemadoc](https://rubygems.org/gems/schemadoc)) -- documents your database schemas (tables, columns, etc.); uses SQLite (via ActiveRecord)
+- **sqleton** (github: [inukshuk/sqleton](https://github.com/inukshuk/sqleton)) by Sylvester Keil -- ['skelɪtən]; visualizes your SQLite database schema (requires graphviz)
 
 
 
@@ -145,9 +146,9 @@ _Ready-to-Use (Instant) Database Schemas_
 - [world.db :octocat:]()  - countries, states, cities, counties, munis, districts, places, names, etc.
 -->
 
-- [football.db :octocat:](https://github.com/openfootball/schema.sql) - teams, competitions, seasons, matches, goals, rounds, groups, etc.
-- [beer.db :octocat:](https://github.com/openbeer/schema.sql)  - beer, brand, brewery, etc.
-- [Chinook Database](http://chinookdatabase.codeplex.com) - [(chinook.sqlite Download)](http://chinookdatabase.codeplex.com/releases/view/55681) -  online music store (artists, albums, genres, playlists, media tracks, customers, invoices, employees) with sample data; inspired by the "classic" Microsoft Northwind database
+- **football.db** (github: [openfootball/schema.sql](https://github.com/openfootball/schema.sql)) - teams, competitions, seasons, matches, goals, rounds, groups, etc.
+- **beer.db** (github: [openbeer/schema.sql](https://github.com/openbeer/schema.sql))  - beer, brand, brewery, etc.
+- **Chinook Database** (codeplex: [chinookdatabase](http://chinookdatabase.codeplex.com)), [(chinook.sqlite Download)](http://chinookdatabase.codeplex.com/releases/view/55681) -  online music store (artists, albums, genres, playlists, media tracks, customers, invoices, employees) with sample data; inspired by the "classic" Microsoft Northwind database
 
 
 ## Meta
