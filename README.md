@@ -90,6 +90,13 @@ and many more
 
 ## SQLite Admin Tools
 
+### Web
+
+- **sqlite-web** (github: [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web)) by Charles Leifer -- a web-based SQLite database browser written in Python
+- **sqliteweb** (github: [hypebeast/sqliteweb](https://github.com/hypebeast/sqliteweb)) by Sebastian Ruml -- a web-based SQLite database browser written in Go
+
+### Desktop
+
 Major
 
 - [SQLiteStudio](http://sqlitestudio.pl)
