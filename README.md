@@ -91,15 +91,17 @@ and many more
 
 ### Web
 
-- **sqlite-web** (github: [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web)) by Charles Leifer -- a web-based SQLite database browser written in Python
-- **sqliteweb** (github: [hypebeast/sqliteweb](https://github.com/hypebeast/sqliteweb)) by Sebastian Ruml -- a web-based SQLite database browser written in Go
+- **sqlite-web** ★217 (github: [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web)) by Charles Leifer -- a web-based SQLite database browser written in Python
+- **sqliteweb** ★46 (github: [hypebeast/sqliteweb](https://github.com/hypebeast/sqliteweb)) by Sebastian Ruml -- a web-based SQLite database browser written in Go
+- **phpliteadmin** ★31  (web: [phpliteadmin.org](https://www.phpliteadmin.org), github: [phpLiteAdmin/pla](https://github.com/phpLiteAdmin/pla)) -- a web-based SQLite database admin tool written in PHP
+
 
 ### Desktop
 
 Major
 
 - **SQLiteStudio** (web: [sqlitestudio.pl](http://sqlitestudio.pl)) - Linux, Windows, Mac OS X
-- **DB Browser for SQLite** (web: [sqlitebrowser.org](http://sqlitebrowser.org), github: [sqlitebrowser](https://github.com/sqlitebrowser)) -- formerly known as SQLite Database Browser
+- **DB Browser for SQLite** ★3,718 (web: [sqlitebrowser.org](http://sqlitebrowser.org), github: [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)) -- formerly known as SQLite Database Browser
 - [**SQLite Toolbox**](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1) (codeplex: [sqlcetoolbox] (http://sqlcetoolbox.codeplex.com)) -- Visual Studio extension (add-in); coded by Erik Ejlskov Jensen
 
 
