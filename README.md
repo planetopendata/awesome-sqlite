@@ -153,6 +153,14 @@ _Ready-to-Use (Instant) Database Schemas_
 - **Chinook Database** (codeplex: [chinookdatabase](http://chinookdatabase.codeplex.com)), [(chinook.sqlite Download)](http://chinookdatabase.codeplex.com/releases/view/55681) -  online music store (artists, albums, genres, playlists, media tracks, customers, invoices, employees) with sample data; inspired by the "classic" Microsoft Northwind database
 
 
+## SQLite Web Service (JSON API) Publishers / Containers
+
+_Turn your Database into Ready-to-Use (Instant) Online Web Services (JSON APIs) w/ Query Language (QL)_
+
+- **Datasette** (github: [simonw/datasette](https://github.com/simonw/datasette)) by Simon Willison - an instant JSON API for your SQLite databases
+
+
+
 ## Meta
 
 **License**
