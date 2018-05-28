@@ -127,6 +127,7 @@ _A spatial SQLite extension for vector geodata functionality_
 
 - **datapak** (github: [textkit/datapak](https://github.com/textkit/datapak), gem: [datapak](https://rubygems.org/gems/datapak)) -- Ruby tool and library for working with tabular data packages (.csv files w/ .json) using SQLite (via ActiveRecord)
 - **q command line tool** (github: [harelba/q](https://github.com/harelba/q) -- Python script; lets you run SQL directly on CSV files
+- **csvs-to-sqlite** (github: [simonw/csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite), pypi: [csvs-to-sqlite](https://pypi.org/project/csvs-to-sqlite/)) -- Python command-line tool for loading one or more CSV files and converting them into a SQLite database
 
 ## Misc
 
