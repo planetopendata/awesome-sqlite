@@ -94,7 +94,7 @@ and many more
 - **sqlite-web** ★217 (github: [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web)) by Charles Leifer -- a web-based SQLite database browser written in Python
 - **sqliteweb** ★46 (github: [hypebeast/sqliteweb](https://github.com/hypebeast/sqliteweb)) by Sebastian Ruml -- a web-based SQLite database browser written in Go
 - **phpliteadmin** ★31  (web: [phpliteadmin.org](https://www.phpliteadmin.org), github: [phpLiteAdmin/pla](https://github.com/phpLiteAdmin/pla)) -- a web-based SQLite database admin tool written in PHP
-- **web gui for sqlite** (web: [extendsclass.com](https://extendsclass.com/sqlite-browser.html), github: [hautdefrance/Web-GUI-for-SQLite](https://github.com/hautdefrance/Web-GUI-for-SQLite) -- by Cyril Bois -- a web-based SQLite database browser written in JavaScript
+- **web gui for sqlite** (web: [extendsclass.com](https://extendsclass.com/sqlite-browser.html), github: [hautdefrance/Web-GUI-for-SQLite](https://github.com/hautdefrance/Web-GUI-for-SQLite) by Cyril Bois -- a web-based SQLite database browser written in JavaScript
 
 ### Desktop
 
