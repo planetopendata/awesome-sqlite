@@ -51,8 +51,12 @@ Articles
 
 ## SQLite Derivates
 
-- **sql.js** (github: [kripken/sql.js](https://github.com/kripken/sql.js)) -- SQLite compiled to JavaScript (using asm.js) through Emscripten 
+- **sql.js** (github: [kripken/sql.js](https://github.com/kripken/sql.js)) -- SQLite compiled to JavaScript (using asm.js) through Emscripten
 
+
+## SQLite-based Distributed Database
+
+- **rqlite** (github: [rqlite/rqlite](https://github.com/rqlite/rqlite) -- The lightweight, distributed relational database built on SQLite
 
 ## Middleware
 
