@@ -56,7 +56,8 @@ Articles
 
 ## SQLite-based Distributed Database
 
-- **rqlite** (github: [rqlite/rqlite](https://github.com/rqlite/rqlite) -- The lightweight, distributed relational database built on SQLite
+- **rqlite** (github: [rqlite/rqlite](https://github.com/rqlite/rqlite)) by Philip O'Toole et al -- The lightweight, distributed relational database built on SQLite
+
 
 ## Middleware
 
