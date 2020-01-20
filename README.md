@@ -9,11 +9,6 @@ Awesome Series @ Planet Open Data
 
 A collection of awesome sqlite tools, scripts, books, etc.
 
----
-
-[ANNOUNCEMENT] Looking for awesome SQLite libraries in Ruby? See the [Awesome ActiveRecord List @ Planet Ruby](https://github.com/planetruby/awesome-activerecord). 
-
----
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
