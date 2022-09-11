@@ -85,6 +85,10 @@ Visual Basic for Applications (VBA)
 
 - **SQLite for Excel** (codeplex: [sqliteforexcel](https://sqliteforexcel.codeplex.com)) -- SQLite wrapper for VBA
 
+Swift
+
+- **Lighter.swift** (github: [lighter-swift/lighter](https://github.com/lighter-swift), pkg: [Lighter](https://github.com/Lighter-swift/Lighter)) -- SQLite code generator and db packager for Swift
+
 and many more 
 
 
@@ -154,6 +158,7 @@ _Ready-to-Use (Instant) Database Schemas_
 - **football.db** (github: [openfootball/schema.sql](https://github.com/openfootball/schema.sql)) - teams, competitions, seasons, matches, goals, rounds, groups, etc.
 - **beer.db** (github: [openbeer/schema.sql](https://github.com/openbeer/schema.sql))  - beer, brand, brewery, etc.
 - **Chinook Database** (codeplex: [chinookdatabase](http://chinookdatabase.codeplex.com)), [(chinook.sqlite Download)](http://chinookdatabase.codeplex.com/releases/view/55681) -  online music store (artists, albums, genres, playlists, media tracks, customers, invoices, employees) with sample data; inspired by the "classic" Microsoft Northwind database
+- **Northwind.db** (github: [jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3), Swift pkg: [NorthwindSQLite.swift](https://github.com/Lighter-swift/NorthwindSQLite.swift)) - food store (customers, products, orders, employees, suppliers, ...) with sample data; port of the "classic" Microsoft Northwind database
 
 
 ## SQLite Web Service (JSON API) Publishers / Containers
