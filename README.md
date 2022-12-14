@@ -166,7 +166,7 @@ _Ready-to-Use (Instant) Database Schemas_
 _Turn your Database into Ready-to-Use (Instant) Online Web Services (JSON APIs) w/ Query Language (QL)_
 
 - **Datasette** (github: [simonw/datasette](https://github.com/simonw/datasette)) by Simon Willison - an instant JSON API for your SQLite databases
-
+- **Airsequel** (web: [airsequel.com](https://airsequel.com)) - SQLite hosting platform with instant GraphQL API, SQLite workbench, spreadsheet UI, and dashboards
 
 
 ## Meta
