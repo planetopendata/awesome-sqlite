@@ -12,8 +12,7 @@ A collection of awesome (open source) sqlite tools, scripts, books, etc.
 
 **Contributions welcome. Anything missing? Send in a pull request. Thanks.**
 
-Note:  For closed source / proprietary free or non-free sqlite tools & services, see the [**COMMERCIAL page »**](COMMERCIAL.md).
-
+Note:  For closed source / proprietary free or non-free sqlite tools & services, see the [**COMMERCIAL page »**](COMMERCIAL.md)
 
 
 
@@ -53,6 +52,30 @@ Articles
 ## SQLite Derivates
 
 - **sql.js** (github: [sql-js/sql.js](https://github.com/sql-js/sql.js)) -- SQLite compiled to JavaScript (using asm.js) through Emscripten
+
+Talks
+
+-  [**Inside Punkbase - SQLite (SQL.js) In Action**](https://github.com/cryptopunksnotdead/punkbase/tree/master/insidepunkbase) 
+
+Breaking News 
+
+**SQLite Gets Offical "First-Class" WebAssembly & JavaScript Support**
+
+see [**sqlite.org/wasm »**](https://sqlite.org/wasm)
+
+Announced in October 2022 the about page reads:
+
+> About the sqlite3 WASM/JS Subproject
+> WebAssembly, a.k.a. WASM, is a standard defining a low-level programming language suitable
+> (A) as a target for cross-compilation from many other languages and 
+> (B) for running via a virtual machine in a browser.
+> Designed with scriptability via JavaScript in mind, it provides a way to compile C code (among others) to WASM and script 
+> it via JavaScript with relatively little friction despite the vast differences between JavaScript and C.
+>
+> Folks have been building sqlite3 for the web since as far back as 2012
+> but this subproject is the first effort "officially" associated with the SQLite project, 
+> created with the goal of making WASM builds of the library first-class members of the family of supported SQLite deliverables.
+
 
 
 ## SQLite-based Distributed Database
