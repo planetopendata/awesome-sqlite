@@ -1,4 +1,4 @@
-# Awesome Sqlite  - The Commercial Edition
+# Awesome SQLite  - The Commercial Edition
 
 
 A collection of awesome commercial  sqlite tools, scripts, etc.
