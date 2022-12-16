@@ -7,10 +7,15 @@ Awesome Series @ Planet Open Data
 
 # SQLite
 
-A collection of awesome sqlite tools, scripts, books, etc.
+A collection of awesome (open source) sqlite tools, scripts, books, etc.
 
 
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+**Contributions welcome. Anything missing? Send in a pull request. Thanks.**
+
+Note:  For closed source / proprietary free or non-free sqlite tools & services, see the [**COMMERCIAL page »**](COMMERCIAL.md).
+
+
+
 
 
 ## SQLite Headquarters (HQ)
@@ -111,11 +116,6 @@ Major
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 
 
-Minor
-
-- [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
-- [SQLiteSpy](http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index)
-- [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
 
 
 ## SpatiaLite 
