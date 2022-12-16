@@ -8,6 +8,11 @@ A collection of awesome commercial sqlite tools, scripts, etc.
 - [SQLiteAdmin :moneybag:](http://www.lcsql.com/sqliteadmin.html) by lcSQL Software
 
 
+## SQLite Web Services
+
+- **Airsequel** (web: [airsequel.com](https://airsequel.com)) - SQLite hosting platform with instant GraphQL API, SQLite workbench, spreadsheet UI, and dashboards
+
+
 ## Meta
 
 **License**
