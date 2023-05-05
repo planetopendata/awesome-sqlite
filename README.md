@@ -158,6 +158,10 @@ _A spatial SQLite extension for vector geodata functionality_
 - **q command line tool** (github: [harelba/q](https://github.com/harelba/q) -- Python script; lets you run SQL directly on CSV files
 - **csvs-to-sqlite** (github: [simonw/csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite), pypi: [csvs-to-sqlite](https://pypi.org/project/csvs-to-sqlite/)) -- Python command-line tool for loading one or more CSV files and converting them into a SQLite database
 
+## PostgreSQL-to-SQLite
+
+- **pg2sqlite** (codeberg: [louis77/pg2sqlite](https://codeberg.org/louis77/pg2sqlite)) -- Go command-line tool for automatically migrating tables from PostgreSQL to SQLite incl. generating DDL
+
 ## Misc
 
 - **R-Package sqldf** (github: [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf), cran: [sqldf](http://cran.r-project.org/web/packages/sqldf)) -- perform SQL selects on R data frames
