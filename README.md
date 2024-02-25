@@ -175,6 +175,7 @@ _Ready-to-Use (Instant) Database Schemas_
 _Turn your Database into Ready-to-Use (Instant) Online Web Services (JSON APIs) w/ Query Language (QL)_
 
 - **Datasette** (github: [simonw/datasette](https://github.com/simonw/datasette)) by Simon Willison - an instant JSON API for your SQLite databases
+- **SQLPage** (github: [lovasoa/sqlpage](https://github.com/lovasoa/SQLpage)) - build dynamic websites entirely in SQL on top of SQLite databases
 
 ## Meta
 
