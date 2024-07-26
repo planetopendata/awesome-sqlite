@@ -82,7 +82,7 @@ Microsoft ODBC
 Java JDBC
 
 - [SQLite JDBC Driver (sqlite.jar)](http://www.ch-werner.de/javasqlite) - a Java wrapper includes a basic JDBC driver for SQLite; coded by Christian Werner
-- [SQLite JDBC Driver (sqlite-jdbc.jar)](https://bitbucket.org/xerial/sqlite-jdbc) - a library for accessing SQLite databases through the JDBC API; coded by Taro L. Saito
+- [SQLite JDBC Driver (sqlite-jdbc.jar)](https://github.com/xerial/sqlite-jdbc) - a library for accessing SQLite databases through the JDBC API; coded by Taro L. Saito
 
 ## Language Bindings
 
