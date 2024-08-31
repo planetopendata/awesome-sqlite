@@ -125,6 +125,8 @@ Major
 - **DB Browser for SQLite** ★3,718 (web: [sqlitebrowser.org](http://sqlitebrowser.org), github: [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser)) -- formerly known as SQLite Database Browser
 - [**SQLite Toolbox**](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1) (codeplex: [sqlcetoolbox] (http://sqlcetoolbox.codeplex.com)) -- Visual Studio extension (add-in); coded by Erik Ejlskov Jensen
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
+- [SQLTorrent](https://github.com/bittorrent/sqltorrent) - Sqltorrent is a custom VFS for sqlite which allows applications to query an sqlite database contained within a torrent.
+
 
 ## SpatiaLite
 
