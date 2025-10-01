@@ -153,6 +153,7 @@ _A spatial SQLite extension for vector geodata functionality_
 - **R-Package sqldf** (github: [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf), cran: [sqldf](http://cran.r-project.org/web/packages/sqldf)) -- perform SQL selects on R data frames
 - **cr-sqlite** (github: [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite)) - Convergent, Replicated, SQLite
 - **litestream** (github: [benbjohnson/litestream](https://github.com/benbjohnson/litestream)) - Streaming replication for SQLite
+- **HA** (github: [litesql/ha](https://github.com/litesql/ha)) - High Available SQLite cluster
 
 ## Schema Documentation Generators
 
