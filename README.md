@@ -150,6 +150,7 @@ _A spatial SQLite extension for vector geodata functionality_
 
 ## Misc
 
+- **ContextLite** ★8 (github: [itsrobli/contextlite](https://github.com/itsrobli/contextlite)) - SMT-powered database search optimization tool with advanced query performance analysis
 - **R-Package sqldf** (github: [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf), cran: [sqldf](http://cran.r-project.org/web/packages/sqldf)) -- perform SQL selects on R data frames
 - **cr-sqlite** (github: [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite)) - Convergent, Replicated, SQLite
 - **litestream** (github: [benbjohnson/litestream](https://github.com/benbjohnson/litestream)) - Streaming replication for SQLite
