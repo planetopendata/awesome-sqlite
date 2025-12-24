@@ -148,6 +148,10 @@ _A spatial SQLite extension for vector geodata functionality_
 
 - **pg2sqlite** (codeberg: [louis77/pg2sqlite](https://codeberg.org/louis77/pg2sqlite)) -- Go command-line tool for automatically migrating tables from PostgreSQL to SQLite incl. generating DDL
 
+## Applications
+
+- **Corgi VIN Decoder** (github: [cardog-ai/corgi](https://github.com/cardog-ai/corgi)) -- Vehicle identification decoder using heavily optimized SQLite database. Reduced NHTSA's 1.5GB dataset to 21MB with 100x performance improvement.
+
 ## Misc
 
 - **R-Package sqldf** (github: [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf), cran: [sqldf](http://cran.r-project.org/web/packages/sqldf)) -- perform SQL selects on R data frames
