@@ -111,7 +111,7 @@ and many more
 ## SQLite Admin Tools
 
 ### Web
-
+- **VizSQL** (web: [vizsql.io/sqlite](https://www.vizsql.io/sqlite/)) — Instant SQLite browser that **automatically generates ER diagrams** via drag-and-drop. Features reverse engineering of schemas, DDL generation, and query visualization. 100% private and WASM-based.
 - **sqlite-web** ★217 (github: [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web)) by Charles Leifer -- a web-based SQLite database browser written in Python
 - **sqliteweb** ★46 (github: [hypebeast/sqliteweb](https://github.com/hypebeast/sqliteweb)) by Sebastian Ruml -- a web-based SQLite database browser written in Go
 - **phpliteadmin** ★31 (web: [phpliteadmin.org](https://www.phpliteadmin.org), github: [phpLiteAdmin/pla](https://github.com/phpLiteAdmin/pla)) -- a web-based SQLite database admin tool written in PHP
