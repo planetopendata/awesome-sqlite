@@ -151,6 +151,7 @@ _A spatial SQLite extension for vector geodata functionality_
 ## Applications
 
 - **Corgi VIN Decoder** (github: [cardog-ai/corgi](https://github.com/cardog-ai/corgi)) -- Vehicle identification decoder using heavily optimized SQLite database. Reduced NHTSA's 1.5GB dataset to 21MB with 100x performance improvement.
+- **IndieStack** (web: [indiestack.fly.dev](https://indiestack.fly.dev)) -- Indie software search engine powered by SQLite FTS5 full-text search. Built with FastAPI + SQLAlchemy 2.0, single .db file on Fly.io.
 
 ## Misc
 
