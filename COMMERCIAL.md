@@ -26,6 +26,7 @@ no longer available ??
 
 
 
+- **IndieStack** (web: [indiestack.fly.dev](https://indiestack.fly.dev)) - A curated directory of indie-built SaaS alternatives powered by SQLite FTS5 full-text search. 100+ tools cataloged.
 ## Meta
 
 **License**
