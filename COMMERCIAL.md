@@ -27,6 +27,7 @@ no longer available ??
 
 
 - **IndieStack** (web: [indiestack.fly.dev](https://indiestack.fly.dev)) - A curated directory of indie-built SaaS alternatives powered by SQLite FTS5 full-text search. 100+ tools cataloged.
+- **QueryGlow** (web: [queryglow.com](https://queryglow.com/), demo: [demo.queryglow.com](https://demo.queryglow.com)) - Self-hosted, web-based database GUI with AI SQL generation, EXPLAIN visualizer, and schema-aware autocomplete. Supports PostgreSQL, MySQL, MariaDB, SQLite, CockroachDB, TimescaleDB. $79 one-time.
 ## Meta
 
 **License**
