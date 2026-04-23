@@ -7,6 +7,7 @@ A collection of awesome commercial  sqlite tools, scripts, etc.
 ## SQLite Admin Tools
 
 Desktop
+- [1bench](https://1bench.dev/sqlite) — Native cross-platform desktop GUI with first-class SQLite support alongside Postgres, Redis, Elasticsearch, ClickHouse, Qdrant, and more.
 - [VizSQL](https://www.vizsql.io) — Instant SQLite browser that **automatically generates ER diagrams** via drag-and-drop. Features reverse engineering of schemas, and DDL generation. 100% private and WASM-based.
 - [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
 - [SQLiteSpy](https://www.yunqa.de/delphi/apps/sqlitespy/index)
