@@ -178,6 +178,7 @@ _Ready-to-Use (Instant) Database Schemas_
 - **beer.db** (github: [openbeer/schema.sql](https://github.com/openbeer/schema.sql)) - beer, brand, brewery, etc.
 - **Chinook Database** (codeplex: [chinookdatabase](http://chinookdatabase.codeplex.com)), [(chinook.sqlite Download)](http://chinookdatabase.codeplex.com/releases/view/55681) - online music store (artists, albums, genres, playlists, media tracks, customers, invoices, employees) with sample data; inspired by the "classic" Microsoft Northwind database
 - **Northwind.db** (github: [jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3), Swift pkg: [NorthwindSQLite.swift](https://github.com/Lighter-swift/NorthwindSQLite.swift)) - food store (customers, products, orders, employees, suppliers, ...) with sample data; port of the "classic" Microsoft Northwind database
+- **Mindweave SME Business Data** (github: [MindweaveTech/sme-sim-sample](https://github.com/MindweaveTech/sme-sim-sample)) - 42-table synthetic business dataset with double-entry accounting, 44 FK relationships, tax compliance (AU/US/UK), and 3-year temporal simulation. Also available in CSV, SQL, Parquet.
 
 ## SQLite Web Service (JSON API) Publishers / Containers
 
