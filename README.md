@@ -161,6 +161,7 @@ _A spatial SQLite extension for vector geodata functionality_
 - **cr-sqlite** (github: [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite)) - Convergent, Replicated, SQLite
 - **litestream** (github: [benbjohnson/litestream](https://github.com/benbjohnson/litestream)) - Streaming replication for SQLite
 - **HA** (github: [litesql/ha](https://github.com/litesql/ha)) - High Available SQLite cluster
+- **silentdrop** (github: [sravan27/silentdrop](https://github.com/sravan27/silentdrop)) -- zero-dep MIT TypeScript correctness checker for JS implementations of SQLite operators (`upper`/`lower` ASCII vs Unicode fold, `length`/`substr` code-points vs UTF-16 code units, integer overflow). Catches the silent-wrong-row class found shipping eight fixes to PowerSync sync-rules and four other JS DBs.
 
 ## Schema Documentation Generators
 
