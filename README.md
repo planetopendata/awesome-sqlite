@@ -118,6 +118,7 @@ and many more
 - **web gui for sqlite** (web: [extendsclass.com](https://extendsclass.com/sqlite-browser.html), github: [hautdefrance/Web-GUI-for-SQLite](https://github.com/hautdefrance/Web-GUI-for-SQLite) by Cyril Bois -- a web-based SQLite database browser written in JavaScript
 - **SQLite Hub** ★4 (web: [sqlite-hub](https://oliverjessner.at/sqlite-hub/), github: [oliverjessner/sqlite-hub](https://github.com/oliverjessner/sqlite-hub)) -- a web-based SQLite database browser written in NodeJS
 - **LiteAdmin** (github: [martijndeb/liteadmin](https://github.com/martijndeb/liteadmin)) -- a web-based SQLite administration tool written in dependency free PHP
+- **LibreDB Studio** ★135 (web: [libredb.org](https://libredb.org), github: [libredb/libredb-studio](https://github.com/libredb/libredb-studio)) -- a web-based SQL IDE written in TypeScript, covering SQLite alongside nine other engines
 
 ### Desktop
 
