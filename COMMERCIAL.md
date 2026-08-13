@@ -12,6 +12,7 @@ Desktop
 - [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
 - [SQLiteSpy](https://www.yunqa.de/delphi/apps/sqlitespy/index)
 - [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
+- [Mongrel](https://www.visorcraft.com/sqlite) — Cross-platform desktop GUI (Windows, macOS, Linux) for SQLite browsing, editing, DDL, EXPLAIN QUERY PLAN, import/export, migrations, and scheduled backups. Proprietary with a 7-day free trial.
 
 
 <!--
