@@ -166,6 +166,7 @@ _A spatial SQLite extension for vector geodata functionality_
 - **litestream** (github: [benbjohnson/litestream](https://github.com/benbjohnson/litestream)) - Streaming replication for SQLite
 - **HA** (github: [litesql/ha](https://github.com/litesql/ha)) - High Available SQLite cluster
 - **silentdrop** (github: [sravan27/silentdrop](https://github.com/sravan27/silentdrop)) -- zero-dep MIT TypeScript correctness checker for JS implementations of SQLite operators (`upper`/`lower` ASCII vs Unicode fold, `length`/`substr` code-points vs UTF-16 code units, integer overflow). Catches the silent-wrong-row class found shipping eight fixes to PowerSync sync-rules and four other JS DBs.
+- **sqliteproof** (github: [OrbitalKeyAi/sqliteproof](https://github.com/OrbitalKeyAi/sqliteproof)) -- zero-dependency MIT integrity checker that reports damage per **table** rather than per page; `PRAGMA integrity_check` answers with page numbers, this answers with which tables are intact, how many rows are unreadable, and where each damaged table breaks. Opens the database read-only.
 
 ## Schema Documentation Generators
 
