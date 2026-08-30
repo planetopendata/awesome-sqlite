@@ -130,6 +130,7 @@ Major
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBTool](https://github.com/achi777/db-tool) - Free and open-source desktop client for SQLite and five other engines, with a visual query builder, a schema designer and an editable results grid. Linux, Windows, macOS.
 - [SQLTorrent](https://github.com/bittorrent/sqltorrent) - Sqltorrent is a custom VFS for sqlite which allows applications to query an sqlite database contained within a torrent.
+- [SQLite Lens](https://plugins.jetbrains.com/plugin/33684-sqlite-lens-sqlite-database-file-viewer) - Read-only SQLite database file viewer plugin for JetBrains IDEs: schema tree, paged tables of any size, opens without locking the database. Sibling Lens viewers cover DuckDB, Parquet, Excel and Jupyter files.
 
 
 ## SpatiaLite
