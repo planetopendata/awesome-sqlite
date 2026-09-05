@@ -167,6 +167,7 @@ _A spatial SQLite extension for vector geodata functionality_
 - **HA** (github: [litesql/ha](https://github.com/litesql/ha)) - High Available SQLite cluster
 - **silentdrop** (github: [sravan27/silentdrop](https://github.com/sravan27/silentdrop)) -- zero-dep MIT TypeScript correctness checker for JS implementations of SQLite operators (`upper`/`lower` ASCII vs Unicode fold, `length`/`substr` code-points vs UTF-16 code units, integer overflow). Catches the silent-wrong-row class found shipping eight fixes to PowerSync sync-rules and four other JS DBs.
 - **sqliteproof** (github: [OrbitalKeyAi/sqliteproof](https://github.com/OrbitalKeyAi/sqliteproof)) -- zero-dependency MIT integrity checker that reports damage per **table** rather than per page; `PRAGMA integrity_check` answers with page numbers, this answers with which tables are intact, how many rows are unreadable, and where each damaged table breaks. Opens the database read-only.
+- **d1-migration-guard** (github: [MattBridges/d1-migration-guard](https://github.com/MattBridges/d1-migration-guard)) -- zero-dependency MIT CLI with four safety checks for Cloudflare D1/Wrangler migrations before `wrangler d1 migrations apply` runs them: migration ordering/duplicate-numbering, missing/placeholder `database_id` in `wrangler.toml`, destructive SQL (`DROP TABLE`/`DROP COLUMN`/unfiltered `DELETE`), and unsafe trigger-based SQL patterns known to break Wrangler's statement splitter. Reads local files only, never touches a live database.
 
 ## Schema Documentation Generators
 
