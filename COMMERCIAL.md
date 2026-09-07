@@ -29,6 +29,7 @@ no longer available ??
 
 - **IndieStack** (web: [indiestack.fly.dev](https://indiestack.fly.dev)) - A curated directory of indie-built SaaS alternatives powered by SQLite FTS5 full-text search. 100+ tools cataloged.
 - **QueryGlow** (web: [queryglow.com](https://queryglow.com/), demo: [demo.queryglow.com](https://demo.queryglow.com)) - Self-hosted, web-based database GUI with AI SQL generation, EXPLAIN visualizer, and schema-aware autocomplete. Supports PostgreSQL, MySQL, MariaDB, SQLite, CockroachDB, TimescaleDB. $79 one-time.
+- **Intellrise CSV to SQL converter** (web: [intellrise.com/tools/csv-to-sql-converter](https://intellrise.com/tools/csv-to-sql-converter/)) - Turns a CSV or Excel workbook into `CREATE TABLE` plus batched `INSERT`s in SQLite's own type vocabulary (`TEXT`/`INTEGER`/`REAL`, booleans as `1`/`0`, dates as `TEXT`), one table per worksheet. Types come from the values, not the header, and a significant leading zero keeps the column `TEXT` so ZIP codes and SKUs do not silently lose digits. Parses in the browser tab -- no upload, no signup. Free.
 ## Meta
 
 **License**
