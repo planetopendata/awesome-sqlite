@@ -192,6 +192,7 @@ _Turn your Database into Ready-to-Use (Instant) Online Web Services (JSON APIs) 
 
 - **Datasette** (github: [simonw/datasette](https://github.com/simonw/datasette)) by Simon Willison - an instant JSON API for your SQLite databases
 - **SQLPage** (github: [lovasoa/sqlpage](https://github.com/lovasoa/SQLpage)) - build dynamic websites entirely in SQL on top of SQLite databases
+- **Concile** (github: [concile-dev/concile](https://github.com/concile-dev/concile)) - self-hosted realtime backend on SQLite (Postgres optional); write TypeScript query functions and every result stays live for connected clients. Source-available (FSL-1.1-Apache-2.0)
 
 ## Meta
 
