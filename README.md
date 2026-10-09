@@ -161,6 +161,7 @@ _A spatial SQLite extension for vector geodata functionality_
 
 ## Misc
 
+- **dbdiff** (github: [rekurt/dbdiff](https://github.com/rekurt/dbdiff)) -- Rust command-line tool for comparing SQLite schemas and generating SQL for review; also supports PostgreSQL and MySQL/MariaDB. Does not execute generated SQL.
 - **R-Package sqldf** (github: [ggrothendieck/sqldf](https://github.com/ggrothendieck/sqldf), cran: [sqldf](http://cran.r-project.org/web/packages/sqldf)) -- perform SQL selects on R data frames
 - **cr-sqlite** (github: [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite)) - Convergent, Replicated, SQLite
 - **litestream** (github: [benbjohnson/litestream](https://github.com/benbjohnson/litestream)) - Streaming replication for SQLite
