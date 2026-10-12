@@ -12,6 +12,7 @@ Desktop
 - [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
 - [SQLiteSpy](https://www.yunqa.de/delphi/apps/sqlitespy/index)
 - [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
+- [VisuaLeaf](https://visualeaf.com/database/sqlite/) — Cross-platform desktop database client with a SQL editor, visual query builder, and ER diagrams. Free Community Edition and paid editions.
 
 
 <!--
