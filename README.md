@@ -131,6 +131,7 @@ Major
 - [DBTool](https://github.com/achi777/db-tool) - Free and open-source desktop client for SQLite and five other engines, with a visual query builder, a schema designer and an editable results grid. Linux, Windows, macOS.
 - [SQLTorrent](https://github.com/bittorrent/sqltorrent) - Sqltorrent is a custom VFS for sqlite which allows applications to query an sqlite database contained within a torrent.
 
+- [Glim](https://github.com/NeoPanic/Glim) - Open-source macOS file viewer with read-only SQLite table and schema browsing alongside documents and data files.
 
 ## SpatiaLite
 
