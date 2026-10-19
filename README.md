@@ -106,6 +106,10 @@ Swift
 
 - **Lighter.swift** (github: [lighter-swift/lighter](https://github.com/lighter-swift), pkg: [Lighter](https://github.com/Lighter-swift/Lighter)) -- SQLite code generator and db packager for Swift
 
+JavaScript
+
+- **MongoLite** (github: [semics-tech/mongolite](https://github.com/semics-tech/mongolite)) -- MongoDB-style API (queries, updates, aggregation, change streams) on a SQLite file; Node, browser (sql.js) and Cloudflare Durable Objects
+
 and many more
 
 ## SQLite Admin Tools
