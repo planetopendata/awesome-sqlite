@@ -39,6 +39,7 @@ Articles
 
 ## SQLite Modules / Extensions
 
+- **RAGite** (github: [pihme/ragite](https://github.com/pihme/ragite)) -- loadable extension for retrieval (RAG): chunking, CPU embeddings and hybrid vector + BM25 search in one database file
 - **sqlean** (github: https://github.com/nalgeon/sqlean) by nalgeon
 - **Text File Reader for SQLite (TFR4SQLite)** (github: [elau1004/TFR4SQLite](https://github.com/elau1004/TFR4SQLite)) by Edward Lau -- read any structured text file according to your parsing spec into SQLite
 
