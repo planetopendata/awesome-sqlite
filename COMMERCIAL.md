@@ -12,6 +12,7 @@ Desktop
 - [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
 - [SQLiteSpy](https://www.yunqa.de/delphi/apps/sqlitespy/index)
 - [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
+- [Seqora](https://seqora.dev) - desktop client for SQLite files that also connects to PostgreSQL, MySQL and MariaDB, on macOS and Windows - note: free plan, plus a paid Pro plan with visual query plans and object pages
 
 
 <!--
