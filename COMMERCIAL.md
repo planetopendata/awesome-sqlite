@@ -12,6 +12,7 @@ Desktop
 - [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
 - [SQLiteSpy](https://www.yunqa.de/delphi/apps/sqlitespy/index)
 - [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
+- [SQLly](https://sqlly.app) — Cross-platform desktop SQL client with IntelliSense and schema intelligence, opening SQLite alongside PostgreSQL, MySQL, SQL Server, DuckDB, Redis and more.
 
 
 <!--
