@@ -119,6 +119,7 @@ and many more
 - **SQLite Hub** ★4 (web: [sqlite-hub](https://oliverjessner.at/sqlite-hub/), github: [oliverjessner/sqlite-hub](https://github.com/oliverjessner/sqlite-hub)) -- a web-based SQLite database browser written in NodeJS
 - **LiteAdmin** (github: [martijndeb/liteadmin](https://github.com/martijndeb/liteadmin)) -- a web-based SQLite administration tool written in dependency free PHP
 - **LibreDB Studio** ★135 (web: [libredb.org](https://libredb.org), github: [libredb/libredb-studio](https://github.com/libredb/libredb-studio)) -- a web-based SQL IDE written in TypeScript, covering SQLite alongside nine other engines
+- **PasteZap SQLite Viewer** (web: [pastezap.com](https://pastezap.com/tools/sqlite-viewer/)) -- a browser-based SQLite viewer using sql.js (WebAssembly); the .db file is opened locally, not uploaded
 
 ### Desktop
 
