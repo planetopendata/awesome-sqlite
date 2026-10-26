@@ -129,6 +129,7 @@ Major
 - [**SQLite Toolbox**](https://visualstudiogallery.msdn.microsoft.com/0e313dfd-be80-4afb-b5e9-6e74d369f7a1) (codeplex: [sqlcetoolbox] (http://sqlcetoolbox.codeplex.com)) -- Visual Studio extension (add-in); coded by Erik Ejlskov Jensen
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBTool](https://github.com/achi777/db-tool) - Free and open-source desktop client for SQLite and five other engines, with a visual query builder, a schema designer and an editable results grid. Linux, Windows, macOS.
+- [Tabularis](https://github.com/TabularisDB/tabularis) - Free, open-source desktop client with built-in SQLite support, a SQL editor, editable data grids and ER diagrams. Linux, Windows, macOS.
 - [SQLTorrent](https://github.com/bittorrent/sqltorrent) - Sqltorrent is a custom VFS for sqlite which allows applications to query an sqlite database contained within a torrent.
 
 
