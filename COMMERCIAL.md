@@ -13,6 +13,9 @@ Desktop
 - [SQLiteSpy](https://www.yunqa.de/delphi/apps/sqlitespy/index)
 - [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
 
+Browser
+- [SQLite Explorer](https://chromewebstore.google.com/detail/chelmljgfgilokkhcmchoepgklbfdoah) — Chrome extension, a read-only viewer for local SQLite files (.db, .sqlite3, .db3): browse tables, filter and sort rows, run read-only SQL and export CSV. The engine runs inside the extension with zero network requests, so the file is not uploaded.
+
 
 <!--
 
