@@ -158,6 +158,7 @@ _A spatial SQLite extension for vector geodata functionality_
 - **R-Mem** (github: [Adaimade/R-Mem](https://github.com/Adaimade/R-Mem)) -- Lightweight Rust AI memory system using SQLite for both vector storage (cosine similarity) and graph storage. Reimplements mem0's architecture in ~1,748 lines.
 - **BrainDB** (github: [beckfexx/BrainDB](https://github.com/beckfexx/BrainDB)) -- Local-first AI memory and multi-agent orchestrator using SQLite with FTS5 for hybrid search. 110 REST endpoints, 51 MCP tools, knowledge graph, self-learning. TypeScript/Bun.
 - **KubeStellar Console** (github: [kubestellar/console](https://github.com/kubestellar/console)) -- Multi-cluster Kubernetes dashboard using SQLite WASM in a Web Worker for persistent client-side caching. SWR pattern with IndexedDB fallback, keeping structured query performance off the main thread for real-time observability across edge and cloud clusters. Go/TypeScript.
+- **RunWisp** (github: [runwisp/runwisp](https://github.com/runwisp/runwisp)) -- Cron job manager and process supervisor in one Go binary. Run history (exit code, duration, timestamps, status) lives in embedded SQLite via the pure-Go modernc.org/sqlite driver, so it survives restarts without an external database.
 
 ## Misc
 
