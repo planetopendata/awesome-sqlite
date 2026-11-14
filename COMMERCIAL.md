@@ -12,6 +12,7 @@ Desktop
 - [SQLite Expert](http://www.sqliteexpert.com) - note: free personal edition and commercial "professional" edition
 - [SQLiteSpy](https://www.yunqa.de/delphi/apps/sqlitespy/index)
 - [SQLite Administrator](http://sqliteadmin.orbmu2k.de)
+- [Datlas](https://datlasdb.com/en/) — Free desktop SQL client for Windows and Linux (closed source) with SQLite and other databases: ask in plain language, review the generated SQL, run it read-only.
 
 
 <!--
