@@ -106,6 +106,10 @@ Swift
 
 - **Lighter.swift** (github: [lighter-swift/lighter](https://github.com/lighter-swift), pkg: [Lighter](https://github.com/Lighter-swift/Lighter)) -- SQLite code generator and db packager for Swift
 
+TypeScript
+
+- **Reylo** (github: [reylosql/reylo](https://github.com/reylosql/reylo), npm: [reylo](https://www.npmjs.com/package/reylo)) -- imports `.sql` files into TypeScript with types inferred from the SQLite database; runs on better-sqlite3, node:sqlite, Bun, libSQL/Turso and Cloudflare D1
+
 and many more
 
 ## SQLite Admin Tools
